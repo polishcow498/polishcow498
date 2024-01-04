@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a llow intermediate in C# for game development on Unity.
+- 👋 Hi, I’m a low intermediate in C# for game development on Unity.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning gaame development.
 - 💞️ I’m looking to collaborate on new games.
